@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-02T00:06:05 IST" name="Default suite" finished-at="2024-07-02T00:06:23 IST" duration-ms="17603">
+    <groups>
+    </groups>
+    <test started-at="2024-07-02T00:06:05 IST" name="Default test" finished-at="2024-07-02T00:06:23 IST" duration-ms="17603">
+      <class name="com.casstore.testcases.TC_AccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T00:06:05 IST" name="setUp" finished-at="2024-07-02T00:06:14 IST" duration-ms="8373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T00:06:14 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-02T00:06:15 IST" duration-ms="1680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIndexPageSignInButton -->
+        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T00:06:16 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T00:06:19 IST" duration-ms="2903" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mazzy@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mazzy@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mazzy Star]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlreadyRegistered -->
+        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T00:06:19 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T00:06:20 IST" duration-ms="1726" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dazzy@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[dazzy@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Dazzy Star]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlreadyRegistered -->
+        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T00:06:20 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T00:06:22 IST" duration-ms="1673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[lazzy@email.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[lazzy@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Lazzy Star]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlreadyRegistered -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T00:06:22 IST" name="tearDown" finished-at="2024-07-02T00:06:23 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.casstore.testcases.TC_AccountPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

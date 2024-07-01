@@ -5,24 +5,21 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-public class HomePageSignIn {
+public class IndexPageSignIn {
 	static WebDriver localDriver;
-	
+
 //	Constructor
-	public HomePageSignIn(WebDriver remoteDriver){
+	public IndexPageSignIn(WebDriver remoteDriver) {
 		localDriver = remoteDriver;
 		PageFactory.initElements(remoteDriver, this);
 	}
-	
-//	Click on home page profile button
-	@FindBy(xpath = "//p[text()='Profile']") WebElement profileButton;
-	public void clickOnProfileButton() {
-		profileButton.click();
-	}
-	
+
 //	Click on home page sign in button
-	@FindBy(linkText = "Sign in") WebElement signInButton; 
+	@FindBy(className = "login")
+	WebElement signInButton;
+
 	public void clickOnSignInButton() {
 		signInButton.click();
 	}
+
 }

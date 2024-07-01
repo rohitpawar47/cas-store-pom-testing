@@ -1,0 +1,806 @@
+[INFO ] 2024-06-20 12:38:03.301 [main] CasStore - url opened
+[INFO ] 2024-06-20 13:07:00.134 [main] CasStore - url opened
+[INFO ] 2024-06-20 13:07:00.243 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 13:07:00.404 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 13:07:00.463 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 13:12:15.939 [main] CasStore - url opened
+[INFO ] 2024-06-20 13:12:16.042 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 13:12:18.205 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 13:12:18.267 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 13:12:54.997 [main] CasStore - url opened
+[INFO ] 2024-06-20 13:12:55.091 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 13:12:57.240 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 13:12:57.312 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 18:10:10.178 [main] CasStore - url opened
+[INFO ] 2024-06-20 18:10:10.259 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 18:10:10.419 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 18:10:10.459 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 18:10:34.920 [main] CasStore - url opened
+[INFO ] 2024-06-20 18:10:34.993 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 18:10:35.131 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 18:10:35.175 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 18:12:47.389 [main] CasStore - url opened
+[INFO ] 2024-06-20 18:12:47.460 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 18:12:47.618 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 18:12:47.661 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 22:40:31.712 [main] CasStore - url opened
+[INFO ] 2024-06-20 22:41:57.410 [main] CasStore - url opened
+[INFO ] 2024-06-20 22:41:57.942 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 22:41:58.099 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 22:41:58.174 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 22:42:34.078 [main] CasStore - url opened
+[INFO ] 2024-06-20 22:42:34.596 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 22:42:34.766 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 22:42:34.825 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 22:48:21.543 [main] CasStore - url opened
+[INFO ] 2024-06-20 22:48:22.085 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 22:48:22.241 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 22:48:22.300 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 22:49:01.974 [main] CasStore - url opened
+[INFO ] 2024-06-20 22:49:02.478 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 22:49:02.629 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 22:49:02.686 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 22:59:46.754 [main] CasStore - Url opened
+[INFO ] 2024-06-20 22:59:47.247 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 22:59:47.388 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 22:59:47.428 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:01:11.930 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:01:12.408 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:01:12.547 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:01:12.592 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:18:14.441 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:18:14.917 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:18:15.058 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:18:15.101 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:19:31.180 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:19:31.654 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:19:31.794 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:19:31.838 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:21:42.259 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:21:42.762 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:21:42.901 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:21:42.945 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:29:52.216 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:29:52.710 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:29:52.852 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:29:52.892 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:31:44.386 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:31:44.855 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:31:44.992 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:31:45.037 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:40:59.749 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:41:00.237 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:41:00.372 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:41:00.416 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-20 23:42:04.402 [main] CasStore - Url opened
+[INFO ] 2024-06-20 23:42:04.897 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-20 23:42:05.045 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-20 23:42:05.093 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-21 00:01:49.756 [main] CasStore - Url opened
+[INFO ] 2024-06-21 00:01:50.170 [main] CasStore - *************** TestCase Verify Homepage SignIn Button Starts *****************
+[INFO ] 2024-06-21 00:01:50.236 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:01:50.371 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-21 00:01:50.411 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-21 00:01:50.411 [main] CasStore - *************** TestCase Verify Homepage SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:01:50.415 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-21 00:01:50.515 [main] CasStore - Entered email address
+[INFO ] 2024-06-21 00:01:50.571 [main] CasStore - Entered password
+[INFO ] 2024-06-21 00:01:50.629 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-21 00:01:50.630 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-21 00:01:50.632 [main] CasStore - *************** TestCase Verify Homepage SignOut Button Starts *****************
+[INFO ] 2024-06-21 00:01:52.390 [main] CasStore - Closed the alert
+[INFO ] 2024-06-21 00:01:53.244 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:01:53.377 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-21 00:01:53.413 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-21 00:01:53.413 [main] CasStore - *************** TestCase Verify Homepage SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:04:00.325 [main] CasStore - Url opened
+[INFO ] 2024-06-21 00:04:00.747 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-21 00:04:00.840 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:04:00.980 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-21 00:04:01.022 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-21 00:04:01.023 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:04:01.031 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-21 00:04:01.139 [main] CasStore - Entered email address
+[INFO ] 2024-06-21 00:04:01.204 [main] CasStore - Entered password
+[INFO ] 2024-06-21 00:04:01.257 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-21 00:04:01.257 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-21 00:04:01.259 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-21 00:04:03.059 [main] CasStore - Closed the alert
+[INFO ] 2024-06-21 00:04:03.914 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:04:04.054 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-21 00:04:04.092 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-21 00:04:04.092 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:17:04.031 [main] CasStore - Url opened
+[INFO ] 2024-06-21 00:17:04.468 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-21 00:17:04.549 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:17:04.710 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-21 00:17:04.764 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-21 00:17:04.764 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:17:04.771 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-21 00:17:04.902 [main] CasStore - Entered email address
+[INFO ] 2024-06-21 00:17:04.978 [main] CasStore - Entered password
+[INFO ] 2024-06-21 00:17:05.064 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-21 00:17:05.064 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-21 00:17:05.068 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-21 00:17:06.743 [main] CasStore - Closed the alert
+[INFO ] 2024-06-21 00:17:07.603 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:17:07.738 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-21 00:17:07.782 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-21 00:17:07.782 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:19:06.006 [main] CasStore - Url opened
+[INFO ] 2024-06-21 00:19:06.419 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-21 00:19:06.507 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:19:06.663 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-21 00:19:06.720 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-21 00:19:06.721 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-21 00:19:06.737 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-21 00:19:06.868 [main] CasStore - Entered email address
+[INFO ] 2024-06-21 00:19:06.952 [main] CasStore - Entered password
+[INFO ] 2024-06-21 00:19:07.019 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-21 00:19:07.020 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-21 00:19:07.024 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-21 00:19:08.827 [main] CasStore - Closed the alert
+[INFO ] 2024-06-21 00:19:09.713 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-21 00:19:09.848 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-21 00:19:09.894 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-21 00:19:09.894 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 13:51:06.751 [main] CasStore - Url opened
+[INFO ] 2024-06-25 13:51:07.175 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-25 13:51:07.286 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 13:51:07.438 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-25 13:51:07.497 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-25 13:51:07.497 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 13:51:07.519 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-25 13:51:07.668 [main] CasStore - Entered email address
+[INFO ] 2024-06-25 13:51:07.756 [main] CasStore - Entered password
+[INFO ] 2024-06-25 13:51:07.847 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-25 13:51:07.862 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-25 13:51:07.865 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-25 13:51:09.713 [main] CasStore - Closed the alert
+[INFO ] 2024-06-25 13:51:10.569 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 13:51:10.720 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-25 13:51:10.763 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-25 13:51:10.763 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 23:06:13.435 [main] CasStore - Url opened
+[INFO ] 2024-06-25 23:06:13.886 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-25 23:06:13.975 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 23:06:14.125 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-25 23:06:14.185 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-25 23:06:14.186 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 23:06:14.195 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-25 23:06:14.338 [main] CasStore - Entered email address
+[INFO ] 2024-06-25 23:06:14.421 [main] CasStore - Entered password
+[INFO ] 2024-06-25 23:06:14.505 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-25 23:06:14.505 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-25 23:06:14.509 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-25 23:06:16.205 [main] CasStore - Closed the alert
+[INFO ] 2024-06-25 23:06:17.079 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 23:06:17.229 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-25 23:06:17.274 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-25 23:06:17.274 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 23:22:49.770 [main] CasStore - Url opened
+[INFO ] 2024-06-25 23:22:49.828 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-25 23:22:49.935 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 23:22:50.080 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-25 23:22:50.137 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-25 23:22:50.137 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 23:22:50.147 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-25 23:22:50.279 [main] CasStore - Entered email address
+[INFO ] 2024-06-25 23:22:50.351 [main] CasStore - Entered password
+[INFO ] 2024-06-25 23:22:50.403 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-25 23:22:50.403 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-25 23:22:50.406 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-25 23:22:52.823 [main] CasStore - Closed the alert
+[INFO ] 2024-06-25 23:22:53.683 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 23:22:53.847 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-25 23:22:53.891 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-25 23:22:53.891 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 23:23:35.787 [main] CasStore - Url opened
+[INFO ] 2024-06-25 23:23:36.232 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-25 23:23:36.338 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 23:23:36.493 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-25 23:23:36.549 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-25 23:23:36.550 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-25 23:23:36.558 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-25 23:23:36.747 [main] CasStore - Entered email address
+[INFO ] 2024-06-25 23:23:36.819 [main] CasStore - Entered password
+[INFO ] 2024-06-25 23:23:36.874 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-25 23:23:36.874 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-25 23:23:36.877 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-25 23:23:38.801 [main] CasStore - Closed the alert
+[INFO ] 2024-06-25 23:23:39.678 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-25 23:23:39.826 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-25 23:23:39.869 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-25 23:23:39.869 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:27:56.975 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:27:57.038 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:27:57.150 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:27:57.296 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:27:57.359 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:27:57.360 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:27:57.392 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:30:08.730 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:30:09.150 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:30:09.241 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:30:09.395 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:30:09.452 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:30:09.452 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:30:09.463 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:32:11.404 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:32:11.827 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:32:11.932 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:32:12.083 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:32:12.141 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:32:12.141 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:32:12.735 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:35:27.908 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:35:28.338 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:35:28.419 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:35:28.572 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:35:28.630 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:35:28.630 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:35:29.083 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:39:19.138 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:39:19.195 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:39:19.318 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:39:19.488 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:39:19.552 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:39:19.552 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:39:20.158 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:40:49.474 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:40:49.527 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:40:49.627 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:40:49.771 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:40:49.828 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:40:49.828 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:40:50.406 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:44:19.376 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:44:19.457 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:44:19.592 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:44:19.757 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:44:19.819 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:44:19.820 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:44:20.434 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:44:20.563 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:44:20.621 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:44:20.691 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:44:20.691 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:44:20.694 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:44:20.759 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:44:20.807 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:44:20.849 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:44:20.849 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:44:20.852 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:45:56.904 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:45:57.327 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:45:57.428 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:45:57.575 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:45:57.629 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:45:57.629 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:45:58.230 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:45:58.361 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:45:58.427 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:45:58.501 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:45:58.501 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:45:58.505 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:45:58.578 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:45:58.641 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:45:58.691 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:45:58.691 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:45:58.695 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:52:11.554 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:52:12.015 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:52:12.111 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:52:12.261 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:52:12.320 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:52:12.321 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:52:13.013 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:52:13.201 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:52:13.262 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:52:13.349 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:52:13.349 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:52:13.352 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:52:13.422 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:52:13.484 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:52:13.534 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:52:13.535 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:52:13.539 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 00:55:09.124 [main] CasStore - Url opened
+[INFO ] 2024-06-26 00:55:09.555 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 00:55:09.647 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 00:55:09.816 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 00:55:09.877 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 00:55:09.878 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 00:55:10.535 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:55:10.668 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:55:10.731 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:55:10.796 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:55:10.796 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:55:10.800 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 00:55:10.872 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 00:55:10.937 [main] CasStore - Entered password
+[INFO ] 2024-06-26 00:55:10.984 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 00:55:10.985 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 00:55:10.988 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:00:33.802 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:00:34.224 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:00:34.311 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:00:34.451 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:00:34.512 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:00:34.512 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:00:34.527 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:00:34.653 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:00:34.737 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:00:34.808 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:00:34.809 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:00:34.812 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:00:36.556 [main] CasStore - Closed the alert
+[INFO ] 2024-06-26 01:00:37.421 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:00:37.556 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-26 01:00:37.602 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-26 01:00:37.602 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:04:46.086 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:04:46.536 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:04:46.638 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:04:46.800 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:04:46.861 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:04:46.861 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:04:47.577 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:04:47.775 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:04:47.861 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:04:47.946 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:04:47.947 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:04:47.950 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:04:48.047 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:04:48.144 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:04:48.229 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:04:48.239 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:04:48.243 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:09:36.298 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:09:36.742 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:09:36.825 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:09:36.970 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:09:37.031 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:09:37.031 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:09:37.707 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:09:37.838 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:09:37.918 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:09:37.972 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:09:37.973 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:09:37.976 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:09:38.065 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:09:38.140 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:09:38.203 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:09:38.203 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:09:38.207 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:19:35.456 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:19:35.896 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:19:35.975 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:19:36.130 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:19:36.184 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:19:36.184 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:19:36.778 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:19:36.906 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:19:36.969 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:19:37.037 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:19:37.038 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:19:37.041 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:19:37.116 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:19:37.197 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:19:37.248 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:19:37.257 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:19:37.263 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:27:05.688 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:27:06.143 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:27:06.246 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:27:06.414 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:27:06.486 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:27:06.486 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:27:07.187 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:27:07.330 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:27:07.411 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:27:07.484 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:27:07.485 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:27:07.488 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:27:07.559 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:27:07.619 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:27:07.672 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:27:07.672 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:27:07.675 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:28:13.531 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:28:13.946 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:28:14.038 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:28:14.191 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:28:14.249 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:28:14.249 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:28:14.968 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:28:15.097 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:28:15.160 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:28:15.233 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:28:15.234 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:28:15.237 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:28:15.321 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:28:15.392 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:28:15.458 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:28:15.461 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:28:15.465 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:29:17.198 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:29:17.639 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:29:17.723 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:29:17.876 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:29:17.936 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:29:17.937 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:29:18.531 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:29:18.657 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:29:18.723 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:29:18.795 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:29:18.795 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:29:18.798 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:29:18.871 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:29:18.934 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:29:18.983 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:29:18.984 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:29:18.987 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:33:01.127 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:33:01.578 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:33:01.681 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:33:01.849 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:33:01.917 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:33:01.917 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:33:02.602 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:33:02.758 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:33:02.870 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:33:02.952 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:33:02.952 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:33:02.962 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:33:03.054 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:33:03.137 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:33:03.197 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:33:03.197 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:33:03.203 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:44:38.003 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:44:38.431 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:44:38.532 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:44:38.688 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:44:38.759 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:44:38.759 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:44:39.436 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:44:39.637 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:44:39.701 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:44:39.791 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:44:39.792 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:44:39.795 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:44:39.882 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:44:39.986 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:44:40.059 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:44:40.076 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:44:40.078 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:45:39.624 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:45:40.074 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:45:40.192 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:45:40.343 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:45:40.405 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:45:40.406 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:45:41.107 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:45:41.281 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:45:41.360 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:45:41.430 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:45:41.430 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:45:41.434 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:45:41.504 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:45:41.565 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:45:41.616 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:45:41.617 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:45:41.620 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:48:57.214 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:48:57.654 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:48:57.760 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:48:57.923 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:48:57.991 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:48:57.991 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:48:58.616 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:49:38.126 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:49:38.564 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:49:38.656 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:49:38.827 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:49:38.892 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:49:38.892 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:49:39.531 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 01:50:05.874 [main] CasStore - Url opened
+[INFO ] 2024-06-26 01:50:06.314 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 01:50:06.402 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 01:50:06.563 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 01:50:06.629 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 01:50:06.629 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 01:50:07.305 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:50:07.495 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:50:07.575 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:50:07.658 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:50:07.658 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:50:07.667 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 01:50:07.728 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 01:50:07.804 [main] CasStore - Entered password
+[INFO ] 2024-06-26 01:50:07.891 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 01:50:07.896 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 01:50:07.900 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 02:02:14.628 [main] CasStore - Url opened
+[INFO ] 2024-06-26 02:02:15.110 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 02:02:15.221 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 02:02:15.386 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 02:02:15.446 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 02:02:15.447 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 02:02:16.245 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:02:16.443 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:02:16.520 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:02:16.611 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:02:16.624 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:02:16.628 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:02:16.709 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:02:16.827 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:02:16.888 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:02:16.889 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:02:16.891 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 02:07:29.232 [main] CasStore - Url opened
+[INFO ] 2024-06-26 02:07:29.680 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 02:07:29.802 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 02:07:29.956 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 02:07:30.022 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 02:07:30.023 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 02:07:30.727 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:07:30.869 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:07:30.943 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:07:31.011 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:07:31.011 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:07:31.015 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:07:31.092 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:07:31.166 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:07:31.226 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:07:31.226 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:07:31.229 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 02:08:15.673 [main] CasStore - Url opened
+[INFO ] 2024-06-26 02:08:16.123 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 02:08:16.243 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 02:08:16.397 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 02:08:16.466 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 02:08:16.466 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 02:08:17.165 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:08:17.351 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:08:17.434 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:08:17.490 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:08:17.490 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:08:17.492 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:08:17.573 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:08:17.652 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:08:17.711 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:08:17.712 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:08:17.715 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 02:10:27.069 [main] CasStore - Url opened
+[INFO ] 2024-06-26 02:10:27.520 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 02:10:27.605 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 02:10:27.763 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 02:10:27.819 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 02:10:27.819 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 02:10:27.823 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 02:10:28.441 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:10:28.608 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:10:28.679 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:10:28.756 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:10:28.756 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 02:10:28.759 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 02:10:28.821 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 02:10:28.893 [main] CasStore - Entered password
+[INFO ] 2024-06-26 02:10:28.950 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 02:10:28.950 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 12:00:53.693 [main] CasStore - Url opened
+[INFO ] 2024-06-26 12:00:53.767 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 12:00:53.862 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 12:00:54.007 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 12:00:54.077 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 12:00:54.077 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 12:00:54.083 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 12:00:54.801 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 12:00:54.930 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 12:00:54.999 [main] CasStore - Entered password
+[INFO ] 2024-06-26 12:00:55.051 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 12:00:55.051 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 12:00:55.053 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 12:00:55.104 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 12:00:55.163 [main] CasStore - Entered password
+[INFO ] 2024-06-26 12:00:55.201 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 12:00:55.201 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 12:01:49.003 [main] CasStore - Url opened
+[INFO ] 2024-06-26 12:01:49.051 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 12:01:49.162 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 12:01:49.329 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 12:01:49.390 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 12:01:49.390 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 12:01:49.396 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 12:01:50.088 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 12:01:50.214 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 12:01:50.267 [main] CasStore - Entered password
+[INFO ] 2024-06-26 12:01:50.333 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 12:01:50.333 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 12:01:50.336 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 12:01:50.400 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 12:01:50.449 [main] CasStore - Entered password
+[INFO ] 2024-06-26 12:01:50.490 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 12:01:50.491 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:46:12.946 [main] CasStore - Url opened
+[INFO ] 2024-06-26 13:46:13.013 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 13:46:13.137 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 13:46:13.334 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 13:46:13.398 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 13:46:13.399 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 13:46:13.403 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 13:46:14.105 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:46:14.256 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:46:14.310 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:46:14.387 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:46:14.388 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:46:14.390 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:46:14.477 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:46:14.525 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:46:14.569 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:46:14.570 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:47:16.969 [main] CasStore - Url opened
+[INFO ] 2024-06-26 13:47:17.419 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 13:47:17.512 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 13:47:17.683 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 13:47:17.743 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 13:47:17.744 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 13:47:17.747 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 13:47:18.333 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:47:18.463 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:47:18.532 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:47:18.604 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:47:18.604 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:47:18.607 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:47:18.683 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:47:18.751 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:47:18.807 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:47:18.807 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:48:20.247 [main] CasStore - Url opened
+[INFO ] 2024-06-26 13:48:20.678 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 13:48:20.770 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 13:48:20.920 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 13:48:20.978 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 13:48:20.978 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 13:48:20.984 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 13:48:21.646 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:48:21.774 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:48:21.848 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:48:21.932 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:48:21.933 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:48:21.935 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:48:21.999 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:48:22.081 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:48:22.141 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:48:22.141 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:54:48.044 [main] CasStore - Url opened
+[INFO ] 2024-06-26 13:54:48.474 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 13:54:48.585 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 13:54:48.740 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 13:54:48.809 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 13:54:48.809 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 13:54:49.525 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:54:49.665 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:54:49.751 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:54:49.807 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:54:49.807 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:54:49.810 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:54:49.886 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:54:49.960 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:54:50.019 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:54:50.019 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:54:50.021 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 13:56:24.629 [main] CasStore - Url opened
+[INFO ] 2024-06-26 13:56:25.040 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 13:56:25.128 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 13:56:25.292 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 13:56:25.346 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 13:56:25.346 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 13:56:25.963 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:56:28.107 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:56:30.178 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:56:32.235 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:56:32.236 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:56:32.239 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:56:44.277 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 13:59:36.520 [main] CasStore - Url opened
+[INFO ] 2024-06-26 13:59:36.948 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 13:59:37.064 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 13:59:37.225 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 13:59:37.295 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 13:59:37.296 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 13:59:37.302 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 13:59:37.460 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 13:59:37.537 [main] CasStore - Entered password
+[INFO ] 2024-06-26 13:59:37.618 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 13:59:37.618 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 13:59:37.621 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 14:00:41.089 [main] CasStore - Url opened
+[INFO ] 2024-06-26 14:00:41.511 [main] CasStore - *************** TestCase Verify Home page SignIn Button Starts *****************
+[INFO ] 2024-06-26 14:00:41.606 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 14:00:41.760 [main] CasStore - Hovered on sign in button
+[INFO ] 2024-06-26 14:00:41.819 [main] CasStore - Clicked on sign in button
+[INFO ] 2024-06-26 14:00:41.819 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 14:00:41.825 [main] CasStore - *************** TestCase Verify SignIn Page Starts *****************
+[INFO ] 2024-06-26 14:00:41.954 [main] CasStore - Entered email address
+[INFO ] 2024-06-26 14:00:42.037 [main] CasStore - Entered password
+[INFO ] 2024-06-26 14:00:42.106 [main] CasStore - Clicked on submit button
+[INFO ] 2024-06-26 14:00:42.106 [main] CasStore - *************** TestCase Verify SignIn Page Ends *****************
+[INFO ] 2024-06-26 14:00:42.108 [main] CasStore - *************** TestCase Verify Home page SignOut Button Starts *****************
+[INFO ] 2024-06-26 14:00:44.058 [main] CasStore - Closed the alert
+[INFO ] 2024-06-26 14:00:44.973 [main] CasStore - Clicked on profile icon
+[INFO ] 2024-06-26 14:00:45.107 [main] CasStore - Hovered on sign out button
+[INFO ] 2024-06-26 14:00:45.152 [main] CasStore - Clicked on sign out button
+[INFO ] 2024-06-26 14:00:45.152 [main] CasStore - *************** TestCase Verify Home page SignIn Button Ends *****************
+[INFO ] 2024-06-26 22:53:45.300 [main] CasStore - Url opened
+[INFO ] 2024-06-26 22:57:17.916 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:14:20.618 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:15:31.761 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:24:23.638 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:27:38.012 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:30:10.855 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:31:06.354 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:32:12.886 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:36:23.329 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:44:26.100 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:46:52.161 [main] CasStore - Url opened
+[INFO ] 2024-06-26 23:47:23.936 [main] CasStore - Url opened
+[INFO ] 2024-06-27 02:06:27.826 [main] CasStore - Url opened
+[INFO ] 2024-06-27 02:11:15.267 [main] CasStore - Url opened
+[INFO ] 2024-06-27 02:13:18.868 [main] CasStore - Url opened
+[INFO ] 2024-06-27 02:17:53.243 [main] CasStore - Url opened
+[INFO ] 2024-06-27 12:29:18.528 [main] CasStore - Url opened
+[INFO ] 2024-06-27 12:30:20.459 [main] CasStore - Url opened
+[INFO ] 2024-06-28 14:32:36.259 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:14:24.887 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:15:10.448 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:25:24.567 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:26:24.877 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:34:34.890 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:36:05.981 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:37:09.446 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:38:16.730 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:38:52.472 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:39:14.073 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:40:21.851 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:41:38.539 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:43:05.437 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:48:48.717 [main] CasStore - Url opened
+[INFO ] 2024-07-01 20:50:17.591 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:12:18.849 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:15:11.339 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:20:19.502 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:20:52.849 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:22:46.501 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:26:38.986 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:28:05.056 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:28:28.597 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:29:35.248 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:34:45.847 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:36:32.737 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:39:21.805 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:51:48.160 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:53:20.710 [main] CasStore - Url opened
+[INFO ] 2024-07-01 21:56:01.309 [main] CasStore - Url opened
+[INFO ] 2024-07-01 22:01:12.470 [main] CasStore - Url opened
+[INFO ] 2024-07-01 23:25:26.482 [main] CasStore - Url opened
+[INFO ] 2024-07-01 23:28:08.008 [main] CasStore - Url opened
+[INFO ] 2024-07-01 23:54:27.677 [main] CasStore - Url opened
+[INFO ] 2024-07-01 23:54:30.825 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-01 23:54:33.709 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-01 23:54:36.577 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-01 23:58:12.129 [main] CasStore - Url opened
+[INFO ] 2024-07-01 23:58:15.802 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-01 23:58:17.753 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-01 23:58:19.567 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 00:04:46.594 [main] CasStore - Url opened
+[INFO ] 2024-07-02 00:04:49.616 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 00:04:51.325 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 00:04:52.785 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 00:06:13.525 [main] CasStore - Url opened
+[INFO ] 2024-07-02 00:06:17.556 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 00:06:20.000 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 00:06:21.657 [main] CasStore - verifyAlreadyRegistered - Passed
