@@ -5,7 +5,8 @@
     <classes>
       <class name="com.casstore.testcases.TC_AccountPageTest">
         <methods>
-          <include name="verifyAlreadyRegistered" invocation-numbers="1 2"/>
+          <include name="verifyIndexPageSignInButton"/>
+          <include name="verifyAlreadyRegistered"/>
           <include name="setUp"/>
           <include name="tearDown"/>
         </methods>
