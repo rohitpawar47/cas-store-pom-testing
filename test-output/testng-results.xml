@@ -2,20 +2,20 @@
 <testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-02T14:08:25 IST" name="Default suite" finished-at="2024-07-02T14:08:46 IST" duration-ms="20832">
+  <suite started-at="2024-07-02T15:46:37 IST" name="Suite" finished-at="2024-07-02T15:46:53 IST" duration-ms="16908">
     <groups>
     </groups>
-    <test started-at="2024-07-02T14:08:25 IST" name="Default test" finished-at="2024-07-02T14:08:46 IST" duration-ms="20832">
+    <test started-at="2024-07-02T15:46:37 IST" name="Test" finished-at="2024-07-02T15:46:53 IST" duration-ms="16908">
       <class name="com.casstore.testcases.TC_AccountPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T14:08:25 IST" name="setUp" finished-at="2024-07-02T14:08:38 IST" duration-ms="13065" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@3c77d488]" started-at="2024-07-02T15:46:37 IST" name="setUp" finished-at="2024-07-02T15:46:45 IST" duration-ms="8510" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T14:08:38 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-02T14:08:39 IST" duration-ms="919" status="PASS">
+        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_AccountPageTest@3c77d488]" started-at="2024-07-02T15:46:45 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-02T15:46:46 IST" duration-ms="869" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyIndexPageSignInButton -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T14:08:40 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T14:08:41 IST" duration-ms="1775" status="PASS">
+        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@3c77d488]" started-at="2024-07-02T15:46:47 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T15:46:49 IST" duration-ms="2433" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -36,7 +36,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T14:08:41 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T14:08:43 IST" duration-ms="1734" status="PASS">
+        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@3c77d488]" started-at="2024-07-02T15:46:49 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T15:46:51 IST" duration-ms="1802" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -57,7 +57,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T14:08:43 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T14:08:45 IST" duration-ms="1994" status="PASS">
+        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@3c77d488]" started-at="2024-07-02T15:46:51 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-02T15:46:53 IST" duration-ms="1774" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -78,11 +78,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@738dc9b]" started-at="2024-07-02T14:08:45 IST" name="tearDown" finished-at="2024-07-02T14:08:46 IST" duration-ms="717" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@3c77d488]" started-at="2024-07-02T15:46:53 IST" name="tearDown" finished-at="2024-07-02T15:46:53 IST" duration-ms="695" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.casstore.testcases.TC_AccountPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

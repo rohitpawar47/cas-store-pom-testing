@@ -1,8 +1,8 @@
 package com.casstore.testcases;
 
+import org.testng.annotations.Test;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
-import org.testng.annotations.Test;
 import com.casstore.pageobject.AccountCreationPage;
 import com.casstore.pageobject.IndexPageSignIn;
 import com.casstore.pageobject.IndexPageSignOut;

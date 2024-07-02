@@ -24,3 +24,107 @@
 [INFO ] 2024-07-02 14:08:44.646 [main] CasStore - verifyAlreadyRegistered - Passed
 [INFO ] 2024-07-02 14:08:44.646 [main] CasStore - Clicked on signout button
 [INFO ] 2024-07-02 14:08:45.698 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:26:37.449 [main] CasStore - Url opened
+[INFO ] 2024-07-02 15:26:38.108 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-07-02 15:26:38.122 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:26:39.030 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-07-02 15:26:39.474 [main] CasStore - Fetching email, password and username data from excel
+[INFO ] 2024-07-02 15:26:39.593 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:26:39.595 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:26:39.667 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:26:39.689 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:26:40.641 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:26:40.643 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:26:41.479 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:26:41.482 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:26:41.482 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:26:41.507 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:26:41.527 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:26:42.239 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:26:42.239 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:26:43.043 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:26:43.045 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:26:43.045 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:26:43.072 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:26:43.094 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:26:43.756 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:26:43.756 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:26:44.582 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:28:05.956 [main] CasStore - Url opened
+[INFO ] 2024-07-02 15:28:06.570 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-07-02 15:28:06.582 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:28:07.665 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-07-02 15:28:08.127 [main] CasStore - Fetching email, password and username data from excel
+[INFO ] 2024-07-02 15:28:08.266 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:28:08.270 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:28:08.354 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:28:08.450 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:28:10.041 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:28:10.043 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:28:11.194 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:28:11.197 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:28:11.197 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:28:11.222 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:28:11.243 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:28:12.017 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:28:12.018 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:28:12.858 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:28:12.859 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:28:12.860 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:28:12.882 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:28:12.903 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:28:13.807 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:28:13.807 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:28:14.663 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:44:59.869 [main] CasStore - Url opened
+[INFO ] 2024-07-02 15:45:00.488 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-07-02 15:45:00.503 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:45:02.474 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-07-02 15:45:02.917 [main] CasStore - Fetching email, password and username data from excel
+[INFO ] 2024-07-02 15:45:03.053 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:45:03.055 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:45:03.135 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:45:03.157 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:45:07.081 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:45:07.083 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:45:10.333 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:45:10.337 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:45:10.337 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:45:10.364 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:45:10.390 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:45:11.688 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:45:11.688 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:45:13.696 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:45:13.698 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:45:13.698 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:45:13.724 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:45:13.746 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:45:14.732 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:45:14.732 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:45:15.946 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:46:45.142 [main] CasStore - Url opened
+[INFO ] 2024-07-02 15:46:45.754 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-07-02 15:46:45.768 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:46:46.616 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-07-02 15:46:47.091 [main] CasStore - Fetching email, password and username data from excel
+[INFO ] 2024-07-02 15:46:47.225 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:46:47.228 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:46:47.339 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:46:47.430 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:46:48.675 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:46:48.677 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:46:49.656 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:46:49.658 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:46:49.659 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:46:49.680 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:46:49.698 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:46:50.563 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:46:50.563 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:46:51.458 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-07-02 15:46:51.460 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-07-02 15:46:51.461 [main] CasStore - Entered registered email address
+[INFO ] 2024-07-02 15:46:51.483 [main] CasStore - Entered registered password
+[INFO ] 2024-07-02 15:46:51.501 [main] CasStore - Clicked on signin button
+[INFO ] 2024-07-02 15:46:52.410 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-07-02 15:46:52.410 [main] CasStore - Clicked on signout button
+[INFO ] 2024-07-02 15:46:53.234 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
