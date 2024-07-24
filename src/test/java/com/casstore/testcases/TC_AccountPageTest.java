@@ -3,6 +3,7 @@ package com.casstore.testcases;
 import org.testng.annotations.Test;
 import org.testng.Assert;
 import org.testng.annotations.DataProvider;
+
 import com.casstore.pageobject.AccountCreationPage;
 import com.casstore.pageobject.IndexPageSignIn;
 import com.casstore.pageobject.IndexPageSignOut;
@@ -22,15 +23,15 @@ public class TC_AccountPageTest extends BaseClass {
 
 		logger.info("*************** TestCase Verify Index page SignIn Button Ends *****************");
 	}
-
-	@Test(enabled = false)
+	
+	@Test( priority = 2, enabled = false)
 	public void verifyEmailToCreateAccount() {
 		logger.info("*************** TestCase Verify Email Address to Create an Account Starts *****************");
 
 		MyAccountPage acc = new MyAccountPage(driver);
 
 		logger.info("Entered email address to create an account");
-		acc.enterEmailAddress("lazzy@email.com");
+		acc.enterEmailAddress("fazzy@email.com");
 
 		logger.info("Clicked on create an account button");
 		acc.clickToCreateAnAccount();
@@ -38,23 +39,23 @@ public class TC_AccountPageTest extends BaseClass {
 		logger.info("*************** TestCase Verify Email Address to Create an Account Ends *****************");
 	}
 
-	@Test(enabled = false)
+	@Test(priority = 3, enabled = false)
 	public void verifyAccountCreation() {
 		logger.info("*************** TestCase Verify Account Creation Page Starts *****************");
 
 		AccountCreationPage newUser = new AccountCreationPage(driver);
 
 		logger.info("Select gender");
-		newUser.selectGenderTwo();
+		newUser.selectGenderOne();
 
 		logger.info("Entered first name");
-		newUser.enterFirstName("Lazzy");
+		newUser.enterFirstName("Fazzy");
 
 		logger.info("Entered last name");
 		newUser.enterLastName("Star");
 
 		logger.info("Entered password");
-		newUser.enterUserPassword("lazzy@123");
+		newUser.enterUserPassword("fazzy@123");
 
 		logger.info("Select day");
 		newUser.selectADay("17");
@@ -74,7 +75,7 @@ public class TC_AccountPageTest extends BaseClass {
 		logger.info("*************** TestCase Verify Account Creation Page Ends *****************");
 	}
 
-	@Test(priority = 2, dataProvider = "SignInDataProvider")
+	@Test(priority = 2, dataProvider = "SignInDataProvider", enabled = true)
 	public void verifyAlreadyRegistered(String userEmail, String userPassword, String expectedUsername)
 			throws Exception {
 		logger.info("*************** TestCase Verify SignIn Starts *****************");
@@ -122,13 +123,10 @@ public class TC_AccountPageTest extends BaseClass {
 		{
 			for (int j = 0; j < ttlColumns; j++)// col=0, 1,2
 			{
-
 				data[i - 1][j] = ReadExcelFile.getCellValue(fileName, "LoginTestData", i, j);
-
 			}
 
 		}
 		return data;
-
 	}
 }

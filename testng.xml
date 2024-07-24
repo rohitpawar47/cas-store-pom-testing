@@ -6,7 +6,8 @@
 	</listeners>
 	<test name="Test">
 		<classes>
-			<class name="com.casstore.testcases.TC_AccountPageTest" />
+			<!-- <class name="com.casstore.testcases.TC_AccountPageTest" /> -->
+			<class name="com.casstore.testcases.TC_SearchProductPageTest"></class>
 		</classes>
 	</test> <!--
 	Test -->

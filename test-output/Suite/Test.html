@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>4/0/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>3/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Tue Jul 02 16:13:52 IST 2024</td>
+<td>Started on:</td><td>Wed Jul 24 15:52:33 IST 2024</td>
 </tr>
-<tr><td>Total time:</td><td>25 seconds (25902 ms)</td>
+<tr><td>Total time:</td><td>23 seconds (23502 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,6 +67,98 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.casstore.testcases.TC_SearchProductPageTest.verifySearchProduct()'><b>verifySearchProduct</b><br>Test class: com.casstore.testcases.TC_SearchProductPageTest</td>
+<td><div><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[@class=&apos;lighter&apos;]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;14.5&apos;, java.version: &apos;22.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [63a818c6-233e-4d47-a49b-25a60a1e581b, findElement {value=//span[@class=&apos;lighter&apos;], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0.2, moz:accessibilityChecks: false, moz:buildID: 20240624183754, moz:debuggerAddress: 127.0.0.1:12008, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 23.5.0, moz:processID: 7203, moz:profile: /var/folders/b3/wkmll6d1427..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://127.0.0.1:12008/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 63a818c6-233e-4d47-a49b-25a60a1e581b
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.getText(Unknown Source)
+	at com.casstore.pageobject.SearchInput.displayMessage(SearchInput.java:36)
+	at com.casstore.testcases.TC_SearchProductPageTest.verifySearchProduct(TC_SearchProductPageTest.java:55)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace719727542", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace719727542'><pre>org.openqa.selenium.NoSuchElementException: Unable to locate element: //span[@class=&apos;lighter&apos;]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: &apos;4.18.1&apos;, revision: &apos;b1d3319b48&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;14.5&apos;, java.version: &apos;22.0.1&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Command: [63a818c6-233e-4d47-a49b-25a60a1e581b, findElement {value=//span[@class=&apos;lighter&apos;], using=xpath}]
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 127.0.2, moz:accessibilityChecks: false, moz:buildID: 20240624183754, moz:debuggerAddress: 127.0.0.1:12008, moz:geckodriverVersion: 0.34.0, moz:headless: false, moz:platformVersion: 23.5.0, moz:processID: 7203, moz:profile: /var/folders/b3/wkmll6d1427..., moz:shutdownTimeout: 60000, moz:webdriverClick: true, moz:windowless: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://127.0.0.1:12008/devtoo..., se:cdpVersion: 85.0, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, userAgent: Mozilla/5.0 (Macintosh; Int...}
+Session ID: 63a818c6-233e-4d47-a49b-25a60a1e581b
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165)
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:356)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:350)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at jdk.proxy2/jdk.proxy2.$Proxy29.getText(Unknown Source)
+	at com.casstore.pageobject.SearchInput.displayMessage(SearchInput.java:36)
+	at com.casstore.testcases.TC_SearchProductPageTest.verifySearchProduct(TC_SearchProductPageTest.java:55)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+	at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+	at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+	at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
+	at org.testng.TestRunner.privateRun(TestRunner.java:794)
+	at org.testng.TestRunner.run(TestRunner.java:596)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+	at org.testng.TestNG.runSuites(TestNG.java:1063)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
+</pre></div></td>
+<td>11</td>
+<td>com.casstore.testcases.TC_SearchProductPageTest@38cee291</td></tr>
+</table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
@@ -75,25 +167,20 @@ function toggleAllBoxes() {
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.casstore.testcases.TC_AccountPageTest.verifyAlreadyRegistered()'><b>verifyAlreadyRegistered</b><br>Test class: com.casstore.testcases.TC_AccountPageTest<br>Parameters: lazzy@email.com, lazzy@123, Lazzy Star</td>
-<td></td>
-<td>3</td>
-<td>com.casstore.testcases.TC_AccountPageTest@3c77d488</td></tr>
-<tr>
-<td title='com.casstore.testcases.TC_AccountPageTest.verifyAlreadyRegistered()'><b>verifyAlreadyRegistered</b><br>Test class: com.casstore.testcases.TC_AccountPageTest<br>Parameters: mazzy@email.com, mazzy@123, Mazzy Star</td>
-<td></td>
-<td>7</td>
-<td>com.casstore.testcases.TC_AccountPageTest@3c77d488</td></tr>
-<tr>
-<td title='com.casstore.testcases.TC_AccountPageTest.verifyAlreadyRegistered()'><b>verifyAlreadyRegistered</b><br>Test class: com.casstore.testcases.TC_AccountPageTest<br>Parameters: dazzy@email.com, dazzy@123, Dazzy Star</td>
-<td></td>
-<td>3</td>
-<td>com.casstore.testcases.TC_AccountPageTest@3c77d488</td></tr>
-<tr>
-<td title='com.casstore.testcases.TC_AccountPageTest.verifyIndexPageSignInButton()'><b>verifyIndexPageSignInButton</b><br>Test class: com.casstore.testcases.TC_AccountPageTest</td>
+<td title='com.casstore.testcases.TC_SearchProductPageTest.verifyUserLogout()'><b>verifyUserLogout</b><br>Test class: com.casstore.testcases.TC_SearchProductPageTest</td>
 <td></td>
 <td>1</td>
-<td>com.casstore.testcases.TC_AccountPageTest@3c77d488</td></tr>
+<td>com.casstore.testcases.TC_SearchProductPageTest@38cee291</td></tr>
+<tr>
+<td title='com.casstore.testcases.TC_SearchProductPageTest.verifyIndexPageSignInButton()'><b>verifyIndexPageSignInButton</b><br>Test class: com.casstore.testcases.TC_SearchProductPageTest</td>
+<td></td>
+<td>0</td>
+<td>com.casstore.testcases.TC_SearchProductPageTest@38cee291</td></tr>
+<tr>
+<td title='com.casstore.testcases.TC_SearchProductPageTest.verifyUserLogin()'><b>verifyUserLogin</b><br>Test class: com.casstore.testcases.TC_SearchProductPageTest</td>
+<td></td>
+<td>1</td>
+<td>com.casstore.testcases.TC_SearchProductPageTest@38cee291</td></tr>
 </table><p>
 </body>
 </html>

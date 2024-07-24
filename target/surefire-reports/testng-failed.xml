@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
   <listeners>
     <listener class-name="com.casstore.utilities.ExtentListenerClass"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="com.casstore.testcases.TC_SearchProductPageTest">
+      <class name="com.casstore.testcases.TC_AccountPageTest">
         <methods>
+          <include name="verifyIndexPageSignInButton"/>
+          <include name="verifyAlreadyRegistered"/>
           <include name="setUp"/>
-          <include name="verifySearchProduct"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.casstore.testcases.TC_SearchProductPageTest -->
+      </class> <!-- com.casstore.testcases.TC_AccountPageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
