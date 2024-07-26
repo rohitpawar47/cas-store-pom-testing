@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-24T17:40:44 IST" name="Default suite" finished-at="2024-07-24T17:41:00 IST" duration-ms="16507">
+  <suite started-at="2024-07-27T00:13:04 IST" name="Suite" finished-at="2024-07-27T00:13:28 IST" duration-ms="23331">
     <groups>
     </groups>
-    <test started-at="2024-07-24T17:40:44 IST" name="Default test" finished-at="2024-07-24T17:41:00 IST" duration-ms="16507">
-      <class name="com.casstore.testcases.TC_SearchProductPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_SearchProductPageTest@791f145a]" started-at="2024-07-24T17:40:44 IST" name="setUp" finished-at="2024-07-24T17:40:53 IST" duration-ms="9664" status="PASS">
+    <test started-at="2024-07-27T00:13:04 IST" name="Test" finished-at="2024-07-27T00:13:28 IST" duration-ms="23331">
+      <class name="com.casstore.testcases.TC_BuyProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_BuyProductTest@4b45a2f5]" started-at="2024-07-27T00:13:05 IST" name="setUp" finished-at="2024-07-27T00:13:13 IST" duration-ms="8702" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_SearchProductPageTest@791f145a]" started-at="2024-07-24T17:40:53 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-24T17:40:54 IST" duration-ms="1184" status="PASS">
+        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_BuyProductTest@4b45a2f5]" started-at="2024-07-27T00:13:13 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-27T00:13:14 IST" duration-ms="997" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyIndexPageSignInButton -->
-        <test-method signature="verifyUserLogin()[pri:2, instance:com.casstore.testcases.TC_SearchProductPageTest@791f145a]" started-at="2024-07-24T17:40:54 IST" name="verifyUserLogin" finished-at="2024-07-24T17:40:56 IST" duration-ms="1576" status="PASS">
+        <test-method signature="verifyUserLogin()[pri:2, instance:com.casstore.testcases.TC_BuyProductTest@4b45a2f5]" started-at="2024-07-27T00:13:14 IST" name="verifyUserLogin" finished-at="2024-07-27T00:13:16 IST" duration-ms="1291" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyUserLogin -->
-        <test-method signature="verifySearchProduct()[pri:3, instance:com.casstore.testcases.TC_SearchProductPageTest@791f145a]" started-at="2024-07-24T17:40:56 IST" name="verifySearchProduct" finished-at="2024-07-24T17:40:58 IST" duration-ms="1479" status="PASS">
+        <test-method signature="verifySearchProduct()[pri:3, instance:com.casstore.testcases.TC_BuyProductTest@4b45a2f5]" started-at="2024-07-27T00:13:16 IST" name="verifySearchProduct" finished-at="2024-07-27T00:13:17 IST" duration-ms="1744" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySearchProduct -->
-        <test-method signature="verifyUserLogout()[pri:4, instance:com.casstore.testcases.TC_SearchProductPageTest@791f145a]" started-at="2024-07-24T17:40:58 IST" name="verifyUserLogout" finished-at="2024-07-24T17:40:59 IST" duration-ms="1509" status="PASS">
+        <test-method signature="verifyBuyProduct()[pri:4, instance:com.casstore.testcases.TC_BuyProductTest@4b45a2f5]" started-at="2024-07-27T00:13:17 IST" name="verifyBuyProduct" finished-at="2024-07-27T00:13:27 IST" duration-ms="9237" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyUserLogout -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_SearchProductPageTest@791f145a]" started-at="2024-07-24T17:40:59 IST" name="tearDown" finished-at="2024-07-24T17:41:00 IST" duration-ms="1063" status="PASS">
+        </test-method> <!-- verifyBuyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_BuyProductTest@4b45a2f5]" started-at="2024-07-27T00:13:27 IST" name="tearDown" finished-at="2024-07-27T00:13:28 IST" duration-ms="1070" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.casstore.testcases.TC_SearchProductPageTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.casstore.testcases.TC_BuyProductTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

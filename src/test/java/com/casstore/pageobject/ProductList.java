@@ -21,5 +21,12 @@ public class ProductList {
 	public String findItem() {
 		return proItem.getText().toLowerCase();
 	}
+	
+	@FindBy(xpath="//h5[@itemprop='name']//a[@title='Printed Chiffon Dress'][normalize-space()='Printed Chiffon Dress']")
+	WebElement item;
+	
+	public void clickOnItem() {
+		item.click();
+	} 
 
 }

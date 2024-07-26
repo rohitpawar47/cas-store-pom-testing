@@ -6,13 +6,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.casstore.testcases.TC_SearchProductPageTest">
+      <class name="com.casstore.testcases.TC_BuyProductTest">
         <methods>
           <include name="setUp"/>
-          <include name="verifySearchProduct"/>
+          <include name="verifyBuyProduct"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.casstore.testcases.TC_SearchProductPageTest -->
+      </class> <!-- com.casstore.testcases.TC_BuyProductTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

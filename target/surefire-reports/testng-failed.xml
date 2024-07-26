@@ -6,14 +6,13 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="com.casstore.testcases.TC_AccountPageTest">
+      <class name="com.casstore.testcases.TC_BuyProductTest">
         <methods>
-          <include name="verifyIndexPageSignInButton"/>
-          <include name="verifyAlreadyRegistered"/>
           <include name="setUp"/>
+          <include name="verifyBuyProduct"/>
           <include name="tearDown"/>
         </methods>
-      </class> <!-- com.casstore.testcases.TC_AccountPageTest -->
+      </class> <!-- com.casstore.testcases.TC_BuyProductTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

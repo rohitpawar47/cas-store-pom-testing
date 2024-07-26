@@ -1,109 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="2" total="7" passed="5" failed="0" skipped="0">
+<testng-results ignored="1" total="5" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-07-15T23:53:03 IST" name="Suite" finished-at="2024-07-15T23:53:40 IST" duration-ms="36923">
+  <suite started-at="2024-07-27T00:19:29 IST" name="Suite" finished-at="2024-07-27T00:19:52 IST" duration-ms="23335">
     <groups>
     </groups>
-    <test started-at="2024-07-15T23:53:03 IST" name="Test" finished-at="2024-07-15T23:53:40 IST" duration-ms="36923">
-      <class name="com.casstore.testcases.TC_AccountPageTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:03 IST" name="setUp" finished-at="2024-07-15T23:53:21 IST" duration-ms="17222" status="PASS">
+    <test started-at="2024-07-27T00:19:29 IST" name="Test" finished-at="2024-07-27T00:19:52 IST" duration-ms="23335">
+      <class name="com.casstore.testcases.TC_BuyProductTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.casstore.testcases.TC_BuyProductTest@34f5090e]" started-at="2024-07-27T00:19:29 IST" name="setUp" finished-at="2024-07-27T00:19:37 IST" duration-ms="8573" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:21 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-15T23:53:22 IST" duration-ms="1228" status="PASS">
+        <test-method signature="verifyIndexPageSignInButton()[pri:1, instance:com.casstore.testcases.TC_BuyProductTest@34f5090e]" started-at="2024-07-27T00:19:37 IST" name="verifyIndexPageSignInButton" finished-at="2024-07-27T00:19:38 IST" duration-ms="804" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyIndexPageSignInButton -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:23 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-15T23:53:29 IST" duration-ms="5993" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[mazzy@email.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[mazzy@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Mazzy Star]]>
-              </value>
-            </param>
-          </params>
+        <test-method signature="verifyUserLogin()[pri:2, instance:com.casstore.testcases.TC_BuyProductTest@34f5090e]" started-at="2024-07-27T00:19:38 IST" name="verifyUserLogin" finished-at="2024-07-27T00:19:40 IST" duration-ms="1307" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:29 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-15T23:53:32 IST" duration-ms="3151" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[dazzy@email.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[dazzy@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Dazzy Star]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- verifyUserLogin -->
+        <test-method signature="verifySearchProduct()[pri:3, instance:com.casstore.testcases.TC_BuyProductTest@34f5090e]" started-at="2024-07-27T00:19:40 IST" name="verifySearchProduct" finished-at="2024-07-27T00:19:41 IST" duration-ms="1800" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:32 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-15T23:53:35 IST" duration-ms="3603" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[lazzy@email.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[lazzy@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Lazzy Star]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- verifySearchProduct -->
+        <test-method signature="verifyBuyProduct()[pri:4, instance:com.casstore.testcases.TC_BuyProductTest@34f5090e]" started-at="2024-07-27T00:19:41 IST" name="verifyBuyProduct" finished-at="2024-07-27T00:19:51 IST" duration-ms="9491" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method signature="verifyAlreadyRegistered(java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:35 IST" name="verifyAlreadyRegistered" data-provider="SignInDataProvider" finished-at="2024-07-15T23:53:39 IST" duration-ms="4073" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[nazzy@email.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[nazzy@123]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Nazzy Star]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyAlreadyRegistered -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_AccountPageTest@5c1a8622]" started-at="2024-07-15T23:53:39 IST" name="tearDown" finished-at="2024-07-15T23:53:40 IST" duration-ms="797" status="PASS">
+        </test-method> <!-- verifyBuyProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.casstore.testcases.TC_BuyProductTest@34f5090e]" started-at="2024-07-27T00:19:51 IST" name="tearDown" finished-at="2024-07-27T00:19:52 IST" duration-ms="1063" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- com.casstore.testcases.TC_AccountPageTest -->
+      </class> <!-- com.casstore.testcases.TC_BuyProductTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

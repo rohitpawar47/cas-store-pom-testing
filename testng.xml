@@ -7,7 +7,7 @@
 	<test name="Test">
 		<classes>
 			<!-- <class name="com.casstore.testcases.TC_AccountPageTest" /> -->
-			<class name="com.casstore.testcases.TC_SearchProductPageTest"></class>
+			<class name="com.casstore.testcases.TC_BuyProductTest"></class>
 		</classes>
 	</test> <!--
 	Test -->
