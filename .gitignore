@@ -1,1 +1,6 @@
-/CASStore/src/test/java/com/casstore/pageobject/Testing.java
+/.classpath
+/.DS_Store
+/.project
+.settings/
+/run.sh
+.
