@@ -1,185 +1,71 @@
-[INFO ] 2024-07-27 00:19:37.366 [main] CasStore - Url opened
-[INFO ] 2024-07-27 00:19:37.989 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:19:38.005 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:19:38.791 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
-[INFO ] 2024-07-27 00:19:38.806 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:19:38.811 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:19:38.873 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:19:38.899 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:19:40.113 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:19:40.114 [main] CasStore - *************** TestCase Verify Search Product Starts *****************
-[INFO ] 2024-07-27 00:19:40.116 [main] CasStore - Entered Search Item
-[INFO ] 2024-07-27 00:19:40.194 [main] CasStore - Clicked Search Product Button
-[INFO ] 2024-07-27 00:19:41.913 [main] CasStore - Searched Item: Found
-[INFO ] 2024-07-27 00:19:41.914 [main] CasStore - *************** TestCase Verify Search Product Ends *****************
-[INFO ] 2024-07-27 00:19:41.915 [main] CasStore - *************** TestCase Verify Buy Product Starts *****************
-[INFO ] 2024-07-27 00:19:41.917 [main] CasStore - Clicked on item
-[INFO ] 2024-07-27 00:19:43.001 [main] CasStore - Selected large size
-[INFO ] 2024-07-27 00:19:43.069 [main] CasStore - Quantity increased
-[INFO ] 2024-07-27 00:19:43.095 [main] CasStore - Clicked on Add to cart
-[INFO ] 2024-07-27 00:19:43.873 [main] CasStore - Clicked on Proceed to checkout
-[INFO ] 2024-07-27 00:19:44.670 [main] CasStore - Clicked on Proceed to checkout summary
-[INFO ] 2024-07-27 00:19:45.681 [main] CasStore - Default: Fisrt name & Last name
-[INFO ] 2024-07-27 00:19:45.681 [main] CasStore - Entered company
-[INFO ] 2024-07-27 00:19:45.713 [main] CasStore - Entered address1
-[INFO ] 2024-07-27 00:19:45.742 [main] CasStore - Entered address2
-[INFO ] 2024-07-27 00:19:45.761 [main] CasStore - Entered city
-[INFO ] 2024-07-27 00:19:45.781 [main] CasStore - Selected state
-[INFO ] 2024-07-27 00:19:46.039 [main] CasStore - Entered postal code
-[INFO ] 2024-07-27 00:19:46.055 [main] CasStore - Selected country
-[INFO ] 2024-07-27 00:19:46.091 [main] CasStore - Entered phone number
-[INFO ] 2024-07-27 00:19:46.111 [main] CasStore - Entered mobile number
-[INFO ] 2024-07-27 00:19:46.131 [main] CasStore - Entered additional information
-[INFO ] 2024-07-27 00:19:46.156 [main] CasStore - Clicked on save button
-[INFO ] 2024-07-27 00:19:47.546 [main] CasStore - Clicked on Proceed to checkout address
-[INFO ] 2024-07-27 00:19:48.418 [main] CasStore - Clicked on Agree terms checkbox
-[INFO ] 2024-07-27 00:19:48.648 [main] CasStore - Clicked on Proceed to checkout shipping
-[INFO ] 2024-07-27 00:19:49.486 [main] CasStore - Clicked on Pay by Check
-[INFO ] 2024-07-27 00:19:50.057 [main] CasStore - Clicked on Confirm my order
-[INFO ] 2024-07-27 00:19:51.390 [main] CasStore - Checked order success message
-[INFO ] 2024-07-27 00:19:51.405 [main] CasStore - Order is complete
-[INFO ] 2024-07-27 00:19:51.405 [main] CasStore - *************** TestCase Verify Buy Product Ends *****************
-[INFO ] 2024-07-27 00:30:39.208 [main] CasStore - Url opened
-[INFO ] 2024-07-27 00:30:39.814 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:30:39.829 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:30:40.820 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
-[INFO ] 2024-07-27 00:30:41.466 [main] CasStore - Fetching email, password and username data from excel
-[INFO ] 2024-07-27 00:30:41.726 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:30:41.729 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:30:41.791 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:30:41.818 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:30:42.880 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:30:42.881 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:30:43.823 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:30:43.825 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:30:43.826 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:30:43.856 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:30:43.880 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:30:44.785 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:30:44.786 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:30:45.756 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:30:45.758 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:30:45.759 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:30:45.785 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:30:45.811 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:30:46.679 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:30:46.679 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:30:47.695 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:30:47.696 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:30:47.696 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:30:47.722 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:30:47.748 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:30:48.514 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:30:48.515 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:30:49.380 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:30:49.381 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:30:49.382 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:30:49.411 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:30:49.436 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:30:50.333 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:30:50.333 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:30:51.132 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:30:59.257 [main] CasStore - Url opened
-[INFO ] 2024-07-27 00:30:59.870 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:30:59.870 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:31:00.756 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
-[INFO ] 2024-07-27 00:31:00.757 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:31:00.758 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:31:00.816 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:31:00.843 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:31:02.113 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:31:02.114 [main] CasStore - *************** TestCase Verify Search Product Starts *****************
-[INFO ] 2024-07-27 00:31:02.116 [main] CasStore - Entered Search Item
-[INFO ] 2024-07-27 00:31:02.191 [main] CasStore - Clicked Search Product Button
-[INFO ] 2024-07-27 00:31:03.672 [main] CasStore - Searched Item: Found
-[INFO ] 2024-07-27 00:31:03.672 [main] CasStore - *************** TestCase Verify Search Product Ends *****************
-[INFO ] 2024-07-27 00:31:03.673 [main] CasStore - *************** TestCase Verify Buy Product Starts *****************
-[INFO ] 2024-07-27 00:31:03.675 [main] CasStore - Clicked on item
-[INFO ] 2024-07-27 00:31:04.847 [main] CasStore - Selected large size
-[INFO ] 2024-07-27 00:31:04.911 [main] CasStore - Quantity increased
-[INFO ] 2024-07-27 00:31:04.930 [main] CasStore - Clicked on Add to cart
-[INFO ] 2024-07-27 00:31:05.692 [main] CasStore - Clicked on Proceed to checkout
-[INFO ] 2024-07-27 00:31:06.485 [main] CasStore - Clicked on Proceed to checkout summary
-[INFO ] 2024-07-27 00:31:07.207 [main] CasStore - Default: Fisrt name & Last name
-[INFO ] 2024-07-27 00:31:07.207 [main] CasStore - Entered company
-[INFO ] 2024-07-27 00:33:47.137 [main] CasStore - Url opened
-[INFO ] 2024-07-27 00:33:47.734 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:33:47.750 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:48.551 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
-[INFO ] 2024-07-27 00:33:49.166 [main] CasStore - Fetching email, password and username data from excel
-[INFO ] 2024-07-27 00:33:49.432 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:49.435 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:49.495 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:49.522 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:50.667 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:50.669 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:51.410 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:33:51.412 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:51.413 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:51.442 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:51.471 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:52.324 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:52.324 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:53.100 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:33:53.101 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:53.102 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:53.134 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:53.161 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:53.982 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:53.982 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:54.757 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:33:54.758 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:54.759 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:54.783 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:54.809 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:55.582 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:55.582 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:56.390 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:33:56.391 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:56.392 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:56.417 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:56.443 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:57.382 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:57.382 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:58.366 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:34:06.196 [main] CasStore - Url opened
-[INFO ] 2024-07-27 00:34:06.792 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:34:06.792 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:34:07.596 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
-[INFO ] 2024-07-27 00:34:07.597 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:34:07.597 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:34:07.655 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:34:07.688 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:34:08.722 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
-[INFO ] 2024-07-27 00:34:08.723 [main] CasStore - *************** TestCase Verify Search Product Starts *****************
-[INFO ] 2024-07-27 00:34:08.725 [main] CasStore - Entered Search Item
-[INFO ] 2024-07-27 00:34:08.748 [main] CasStore - Clicked Search Product Button
-[INFO ] 2024-07-27 00:34:10.193 [main] CasStore - Searched Item: Found
-[INFO ] 2024-07-27 00:34:10.193 [main] CasStore - *************** TestCase Verify Search Product Ends *****************
-[INFO ] 2024-07-27 00:34:10.194 [main] CasStore - *************** TestCase Verify Buy Product Starts *****************
-[INFO ] 2024-07-27 00:34:10.196 [main] CasStore - Clicked on item
-[INFO ] 2024-07-27 00:34:11.249 [main] CasStore - Selected large size
-[INFO ] 2024-07-27 00:34:11.316 [main] CasStore - Quantity increased
-[INFO ] 2024-07-27 00:34:11.335 [main] CasStore - Clicked on Add to cart
-[INFO ] 2024-07-27 00:34:12.102 [main] CasStore - Clicked on Proceed to checkout
-[INFO ] 2024-07-27 00:34:12.862 [main] CasStore - Clicked on Proceed to checkout summary
-[INFO ] 2024-07-27 00:34:13.756 [main] CasStore - Default: Fisrt name & Last name
-[INFO ] 2024-07-27 00:34:13.756 [main] CasStore - Entered company
-[INFO ] 2024-07-27 00:34:13.786 [main] CasStore - Entered address1
-[INFO ] 2024-07-27 00:34:13.814 [main] CasStore - Entered address2
-[INFO ] 2024-07-27 00:34:13.832 [main] CasStore - Entered city
-[INFO ] 2024-07-27 00:34:13.849 [main] CasStore - Selected state
-[INFO ] 2024-07-27 00:34:14.106 [main] CasStore - Entered postal code
-[INFO ] 2024-07-27 00:34:14.124 [main] CasStore - Selected country
-[INFO ] 2024-07-27 00:34:14.162 [main] CasStore - Entered phone number
-[INFO ] 2024-07-27 00:34:14.181 [main] CasStore - Entered mobile number
-[INFO ] 2024-07-27 00:34:14.200 [main] CasStore - Entered additional information
-[INFO ] 2024-07-27 00:34:14.225 [main] CasStore - Clicked on save button
-[INFO ] 2024-07-27 00:34:15.580 [main] CasStore - Clicked on Proceed to checkout address
-[INFO ] 2024-07-27 00:34:16.621 [main] CasStore - Clicked on Agree terms checkbox
-[INFO ] 2024-07-27 00:34:16.846 [main] CasStore - Clicked on Proceed to checkout shipping
-[INFO ] 2024-07-27 00:34:17.737 [main] CasStore - Clicked on Pay by Check
-[INFO ] 2024-07-27 00:34:18.199 [main] CasStore - Clicked on Confirm my order
-[INFO ] 2024-07-27 00:34:22.420 [main] CasStore - Checked order success message
-[INFO ] 2024-07-27 00:34:22.438 [main] CasStore - Order is complete
-[INFO ] 2024-07-27 00:34:22.438 [main] CasStore - *************** TestCase Verify Buy Product Ends *****************
+[INFO ] 2024-08-06 19:00:05.000 [main] CasStore - Url opened
+[INFO ] 2024-08-06 19:00:05.606 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-08-06 19:00:05.623 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:08.341 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-08-06 19:00:08.782 [main] CasStore - Fetching email, password and username data from excel
+[INFO ] 2024-08-06 19:00:08.987 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:08.990 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:09.037 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:09.057 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:10.768 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:10.770 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:12.133 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:12.134 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:12.134 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:12.156 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:12.183 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:13.974 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:13.975 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:15.276 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:15.277 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:15.278 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:15.301 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:15.320 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:17.748 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:17.748 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:20.370 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:20.371 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:20.371 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:20.396 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:20.416 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:22.255 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:22.255 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:23.376 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:23.377 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:23.378 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:23.400 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:23.419 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:24.363 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:24.363 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:25.213 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:32.456 [main] CasStore - Url opened
+[INFO ] 2024-08-06 19:00:33.064 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-08-06 19:00:33.064 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:33.906 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-08-06 19:00:33.907 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:33.908 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:33.953 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:33.972 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:35.418 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:35.419 [main] CasStore - *************** TestCase Verify Search Product Starts *****************
+[INFO ] 2024-08-06 19:00:35.420 [main] CasStore - Entered Search Item
+[INFO ] 2024-08-06 19:00:35.489 [main] CasStore - Clicked Search Product Button
+[INFO ] 2024-08-06 19:00:37.880 [main] CasStore - Searched Item: Found
+[INFO ] 2024-08-06 19:00:37.881 [main] CasStore - *************** TestCase Verify Search Product Ends *****************
+[INFO ] 2024-08-06 19:00:37.882 [main] CasStore - *************** TestCase Verify Buy Product Starts *****************
+[INFO ] 2024-08-06 19:00:37.883 [main] CasStore - Clicked on item
+[INFO ] 2024-08-06 19:00:39.554 [main] CasStore - Selected large size
+[INFO ] 2024-08-06 19:00:39.606 [main] CasStore - Quantity increased
+[INFO ] 2024-08-06 19:00:39.622 [main] CasStore - Clicked on Add to cart
+[INFO ] 2024-08-06 19:00:40.376 [main] CasStore - Clicked on Proceed to checkout
+[INFO ] 2024-08-06 19:00:42.429 [main] CasStore - Clicked on My addresses
+[INFO ] 2024-08-06 19:00:52.441 [main] CasStore - Clicked on cart button: address is already available
+[INFO ] 2024-08-06 19:00:53.075 [main] CasStore - Clicked on Proceed to checkout summary
+[INFO ] 2024-08-06 19:00:53.869 [main] CasStore - Clicked on Proceed to checkout address
+[INFO ] 2024-08-06 19:00:54.764 [main] CasStore - Clicked on Agree terms checkbox
+[INFO ] 2024-08-06 19:00:54.985 [main] CasStore - Clicked on Proceed to checkout shipping
+[INFO ] 2024-08-06 19:00:55.855 [main] CasStore - Clicked on Pay by Check
+[INFO ] 2024-08-06 19:00:56.246 [main] CasStore - Clicked on Confirm my order
+[INFO ] 2024-08-06 19:00:59.417 [main] CasStore - Checked order success message
+[INFO ] 2024-08-06 19:00:59.426 [main] CasStore - Order is complete
+[INFO ] 2024-08-06 19:00:59.427 [main] CasStore - *************** TestCase Verify Buy Product Ends *****************

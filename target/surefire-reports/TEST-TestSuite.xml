@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="44.978" tests="10" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="63.253" tests="10" errors="0" skipped="0" failures="0">
   <properties>
-    <property name="java.specification.version" value="17"/>
+    <property name="java.specification.version" value="22"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
     <property name="java.class.path" value="/Users/rohitpawar/Documents/automation-workspace/CASStore/target/test-classes:/Users/rohitpawar/Documents/automation-workspace/CASStore/target/classes:/Users/rohitpawar/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-java/4.18.1/selenium-java-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-api/4.18.1/selenium-api-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.18.1/selenium-chrome-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.18.1/selenium-chromium-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-json/4.18.1/selenium-json-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.18.1/selenium-manager-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v120/4.18.1/selenium-devtools-v120-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v121/4.18.1/selenium-devtools-v121-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v122/4.18.1/selenium-devtools-v122-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.18.1/selenium-devtools-v85-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.18.1/selenium-edge-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.18.1/selenium-firefox-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-http/4.18.1/selenium-http-4.18.1.jar:/Users/rohitpawar/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.18.1/selenium-ie-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.18.1/selenium-remote-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/com/google/guava/guava/33.0.0-jre/guava-33.0.0-jre.jar:/Users/rohitpawar/.m2/repository/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/rohitpawar/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/rohitpawar/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/rohitpawar/.m2/repository/org/checkerframework/checker-qual/3.41.0/checker-qual-3.41.0.jar:/Users/rohitpawar/.m2/repository/com/google/errorprone/error_prone_annotations/2.23.0/error_prone_annotations-2.23.0.jar:/Users/rohitpawar/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-api/1.35.0/opentelemetry-api-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-context/1.35.0/opentelemetry-context-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.35.0/opentelemetry-exporter-logging-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.35.0/opentelemetry-sdk-common-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.35.0/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.35.0/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.35.0-alpha/opentelemetry-api-events-1.35.0-alpha.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.35.0/opentelemetry-sdk-trace-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.35.0-alpha/opentelemetry-extension-incubator-1.35.0-alpha.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.35.0/opentelemetry-sdk-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.35.0/opentelemetry-sdk-metrics-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.35.0/opentelemetry-sdk-logs-1.35.0.jar:/Users/rohitpawar/.m2/repository/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-os/4.18.1/selenium-os-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.18.1/selenium-safari-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-support/4.18.1/selenium-support-4.18.1.jar:/Users/rohitpawar/.m2/repository/io/github/bonigarcia/webdrivermanager/5.7.0/webdrivermanager-5.7.0.jar:/Users/rohitpawar/.m2/repository/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar:/Users/rohitpawar/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java/3.3.5/docker-java-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-core/3.3.5/docker-java-core-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-api/3.3.5/docker-java-api-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/rohitpawar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/rohitpawar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/rohitpawar/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.76/bcpkix-jdk18on-1.76.jar:/Users/rohitpawar/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/rohitpawar/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.76/bcutil-jdk18on-1.76.jar:/Users/rohitpawar/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.3.5/docker-java-transport-httpclient5-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-transport/3.3.5/docker-java-transport-3.3.5.jar:/Users/rohitpawar/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar:/Users/rohitpawar/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-compress/1.26.0/commons-compress-1.26.0.jar:/Users/rohitpawar/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar:/Users/rohitpawar/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar:/Users/rohitpawar/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar:/Users/rohitpawar/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/Users/rohitpawar/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/rohitpawar/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/Users/rohitpawar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/rohitpawar/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/rohitpawar/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/rohitpawar/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/rohitpawar/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/rohitpawar/.m2/repository/org/apache/poi/poi/5.2.2/poi-5.2.2.jar:/Users/rohitpawar/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/rohitpawar/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/rohitpawar/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/rohitpawar/.m2/repository/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar:/Users/rohitpawar/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar:/Users/rohitpawar/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar:/Users/rohitpawar/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/rohitpawar/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/Users/rohitpawar/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:"/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="user.timezone" value="Asia/Kolkata"/>
     <property name="os.name" value="Mac OS X"/>
-    <property name="java.vm.specification.version" value="17"/>
+    <property name="java.vm.specification.version" value="22"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="IN"/>
-    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home/lib"/>
-    <property name="sun.java.command" value="/Users/rohitpawar/Documents/automation-workspace/CASStore/target/surefire/surefirebooter153003785795913851.jar /Users/rohitpawar/Documents/automation-workspace/CASStore/target/surefire 2024-07-27T00-33-38_281-jvmRun1 surefire13832890294817715663tmp surefire_06913607042520642619tmp"/>
+    <property name="sun.boot.library.path" value="/Users/rohitpawar/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_22.0.1.v20240426-1149/jre/lib"/>
+    <property name="sun.java.command" value="/Users/rohitpawar/Documents/automation-workspace/CASStore/target/surefire/surefirebooter18076797303491696420.jar /Users/rohitpawar/Documents/automation-workspace/CASStore/target/surefire 2024-08-06T18-59-56_624-jvmRun1 surefire18143260846606795398tmp surefire_010600642385614897601tmp"/>
     <property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="/Users/rohitpawar/Documents/automation-workspace/CASStore/target/test-classes:/Users/rohitpawar/Documents/automation-workspace/CASStore/target/classes:/Users/rohitpawar/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-java/4.18.1/selenium-java-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-api/4.18.1/selenium-api-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.18.1/selenium-chrome-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/com/google/auto/service/auto-service-annotations/1.1.1/auto-service-annotations-1.1.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.18.1/selenium-chromium-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-json/4.18.1/selenium-json-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-manager/4.18.1/selenium-manager-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v120/4.18.1/selenium-devtools-v120-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v121/4.18.1/selenium-devtools-v121-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v122/4.18.1/selenium-devtools-v122-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.18.1/selenium-devtools-v85-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.18.1/selenium-edge-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.18.1/selenium-firefox-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-http/4.18.1/selenium-http-4.18.1.jar:/Users/rohitpawar/.m2/repository/dev/failsafe/failsafe/3.3.2/failsafe-3.3.2.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.18.1/selenium-ie-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.18.1/selenium-remote-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/com/google/guava/guava/33.0.0-jre/guava-33.0.0-jre.jar:/Users/rohitpawar/.m2/repository/com/google/guava/failureaccess/1.0.2/failureaccess-1.0.2.jar:/Users/rohitpawar/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/Users/rohitpawar/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/Users/rohitpawar/.m2/repository/org/checkerframework/checker-qual/3.41.0/checker-qual-3.41.0.jar:/Users/rohitpawar/.m2/repository/com/google/errorprone/error_prone_annotations/2.23.0/error_prone_annotations-2.23.0.jar:/Users/rohitpawar/.m2/repository/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/semconv/opentelemetry-semconv/1.23.1-alpha/opentelemetry-semconv-1.23.1-alpha.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-api/1.35.0/opentelemetry-api-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-context/1.35.0/opentelemetry-context-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.35.0/opentelemetry-exporter-logging-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.35.0/opentelemetry-sdk-common-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.35.0/opentelemetry-sdk-extension-autoconfigure-spi-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.35.0/opentelemetry-sdk-extension-autoconfigure-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-api-events/1.35.0-alpha/opentelemetry-api-events-1.35.0-alpha.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.35.0/opentelemetry-sdk-trace-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-extension-incubator/1.35.0-alpha/opentelemetry-extension-incubator-1.35.0-alpha.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.35.0/opentelemetry-sdk-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.35.0/opentelemetry-sdk-metrics-1.35.0.jar:/Users/rohitpawar/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.35.0/opentelemetry-sdk-logs-1.35.0.jar:/Users/rohitpawar/.m2/repository/net/bytebuddy/byte-buddy/1.14.12/byte-buddy-1.14.12.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-os/4.18.1/selenium-os-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.18.1/selenium-safari-driver-4.18.1.jar:/Users/rohitpawar/.m2/repository/org/seleniumhq/selenium/selenium-support/4.18.1/selenium-support-4.18.1.jar:/Users/rohitpawar/.m2/repository/io/github/bonigarcia/webdrivermanager/5.7.0/webdrivermanager-5.7.0.jar:/Users/rohitpawar/.m2/repository/org/slf4j/slf4j-api/2.0.12/slf4j-api-2.0.12.jar:/Users/rohitpawar/.m2/repository/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java/3.3.5/docker-java-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-core/3.3.5/docker-java-core-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-api/3.3.5/docker-java-api-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.10.3/jackson-annotations-2.10.3.jar:/Users/rohitpawar/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.10.3/jackson-databind-2.10.3.jar:/Users/rohitpawar/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3.jar:/Users/rohitpawar/.m2/repository/org/bouncycastle/bcpkix-jdk18on/1.76/bcpkix-jdk18on-1.76.jar:/Users/rohitpawar/.m2/repository/org/bouncycastle/bcprov-jdk18on/1.76/bcprov-jdk18on-1.76.jar:/Users/rohitpawar/.m2/repository/org/bouncycastle/bcutil-jdk18on/1.76/bcutil-jdk18on-1.76.jar:/Users/rohitpawar/.m2/repository/org/slf4j/jcl-over-slf4j/1.7.30/jcl-over-slf4j-1.7.30.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-transport-httpclient5/3.3.5/docker-java-transport-httpclient5-3.3.5.jar:/Users/rohitpawar/.m2/repository/com/github/docker-java/docker-java-transport/3.3.5/docker-java-transport-3.3.5.jar:/Users/rohitpawar/.m2/repository/net/java/dev/jna/jna/5.13.0/jna-5.13.0.jar:/Users/rohitpawar/.m2/repository/org/brotli/dec/0.1.2/dec-0.1.2.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-compress/1.26.0/commons-compress-1.26.0.jar:/Users/rohitpawar/.m2/repository/org/apache/httpcomponents/client5/httpclient5/5.2.1/httpclient5-5.2.1.jar:/Users/rohitpawar/.m2/repository/org/apache/httpcomponents/core5/httpcore5/5.2/httpcore5-5.2.jar:/Users/rohitpawar/.m2/repository/org/apache/httpcomponents/core5/httpcore5-h2/5.2/httpcore5-h2-5.2.jar:/Users/rohitpawar/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/Users/rohitpawar/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/Users/rohitpawar/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/Users/rohitpawar/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/Users/rohitpawar/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/Users/rohitpawar/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/Users/rohitpawar/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/Users/rohitpawar/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/Users/rohitpawar/.m2/repository/org/apache/poi/poi/5.2.2/poi-5.2.2.jar:/Users/rohitpawar/.m2/repository/commons-codec/commons-codec/1.15/commons-codec-1.15.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar:/Users/rohitpawar/.m2/repository/org/apache/commons/commons-math3/3.6.1/commons-math3-3.6.1.jar:/Users/rohitpawar/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/Users/rohitpawar/.m2/repository/com/zaxxer/SparseBitSet/1.2/SparseBitSet-1.2.jar:/Users/rohitpawar/.m2/repository/org/apache/poi/poi-ooxml/5.2.2/poi-ooxml-5.2.2.jar:/Users/rohitpawar/.m2/repository/org/apache/poi/poi-ooxml-lite/5.2.2/poi-ooxml-lite-5.2.2.jar:/Users/rohitpawar/.m2/repository/org/apache/xmlbeans/xmlbeans/5.0.3/xmlbeans-5.0.3.jar:/Users/rohitpawar/.m2/repository/com/github/virtuald/curvesapi/1.07/curvesapi-1.07.jar:/Users/rohitpawar/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/Users/rohitpawar/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:"/>
@@ -21,208 +21,204 @@
     <property name="user.home" value="/Users/rohitpawar"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.version.date" value="2023-10-17"/>
-    <property name="java.home" value="/Library/Java/JavaVirtualMachines/jdk-17.jdk/Contents/Home"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="/Users/rohitpawar/.p2/pool/plugins/org.eclipse.justj.openjdk.hotspot.jre.full.macosx.x86_64_22.0.1.v20240426-1149/jre"/>
     <property name="file.separator" value="/"/>
     <property name="basedir" value="/Users/rohitpawar/Documents/automation-workspace/CASStore"/>
+    <property name="style.color" value="always"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/Users/rohitpawar/Documents/automation-workspace/CASStore/target/surefire/surefirebooter153003785795913851.jar"/>
+    <property name="apple.awt.application.name" value="ForkedBooter"/>
+    <property name="surefire.real.class.path" value="/Users/rohitpawar/Documents/automation-workspace/CASStore/target/surefire/surefirebooter18076797303491696420.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
+    <property name="java.runtime.version" value="22.0.1+8"/>
     <property name="user.name" value="rohitpawar"/>
+    <property name="stdout.encoding" value="UTF-8"/>
     <property name="path.separator" value=":"/>
-    <property name="os.version" value="14.5"/>
-    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="os.version" value="14.6"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="java.vendor.version" value="Temurin-22.0.1+8"/>
     <property name="localRepository" value="/Users/rohitpawar/.m2/repository"/>
-    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.vendor.url.bug" value="https://github.com/adoptium/adoptium-support/issues"/>
     <property name="java.io.tmpdir" value="/var/folders/b3/wkmll6d14273z5hsnzgc3n080000gn/T/"/>
-    <property name="java.version" value="17.0.9"/>
+    <property name="java.version" value="22.0.1"/>
     <property name="user.dir" value="/Users/rohitpawar/Documents/automation-workspace/CASStore"/>
     <property name="os.arch" value="x86_64"/>
     <property name="webdriver.gecko.driver" value="/Users/rohitpawar/.cache/selenium/geckodriver/mac64/0.34.0/geckodriver"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="native.encoding" value="UTF-8"/>
     <property name="java.library.path" value="/Users/rohitpawar/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.version" value="17.0.9+11-LTS-201"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="stderr.encoding" value="UTF-8"/>
+    <property name="java.vendor" value="Eclipse Adoptium"/>
+    <property name="java.vm.version" value="22.0.1+8"/>
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/>
-    <property name="java.class.version" value="61.0"/>
+    <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="verifyIndexPageSignInButton" classname="com.casstore.testcases.TC_AccountPageTest" time="0.818">
+  <testcase name="verifyIndexPageSignInButton" classname="com.casstore.testcases.TC_AccountPageTest" time="2.745">
     <system-out><![CDATA[On Start method invoked....
-[INFO ] 2024-07-27 00:33:47.137 [main] CasStore - Url opened
+[INFO ] 2024-08-06 19:00:05.000 [main] CasStore - Url opened
 Name of test method started: verifyIndexPageSignInButton
-[INFO ] 2024-07-27 00:33:47.734 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:33:47.750 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:48.551 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-08-06 19:00:05.606 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-08-06 19:00:05.623 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:08.341 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+Name of test method sucessfully executed: verifyIndexPageSignInButton
 ]]></system-out>
     <system-err><![CDATA[SLF4J(W): No SLF4J providers were found.
 SLF4J(W): Defaulting to no-operation (NOP) logger implementation
 SLF4J(W): See https://www.slf4j.org/codes.html#noProviders for further details.
 ]]></system-err>
   </testcase>
-  <testcase name="verifyAlreadyRegistered[mazzy@email.com, mazzy@123, Mazzy Star](1)" classname="com.casstore.testcases.TC_AccountPageTest" time="1.977">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyIndexPageSignInButton
-[DEBUG] 2024-07-27 00:33:48.687 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:48.690 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.145 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.146 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[INFO ] 2024-07-27 00:33:49.166 [main] CasStore - Fetching email, password and username data from excel
-[DEBUG] 2024-07-27 00:33:49.171 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.173 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.202 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.203 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.223 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.224 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.242 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.243 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.260 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.261 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.278 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.279 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.297 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.297 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.312 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.313 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.327 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.328 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.343 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.343 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.358 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.359 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.372 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.373 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.386 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.387 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.403 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.404 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
-[DEBUG] 2024-07-27 00:33:49.422 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
-[DEBUG] 2024-07-27 00:33:49.422 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+  <testcase name="verifyAlreadyRegistered[mazzy@email.com, mazzy@123, Mazzy Star](1)" classname="com.casstore.testcases.TC_AccountPageTest" time="3.145">
+    <system-out><![CDATA[[DEBUG] 2024-08-06 19:00:08.452 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.454 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.766 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.767 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2024-08-06 19:00:08.782 [main] CasStore - Fetching email, password and username data from excel
+[DEBUG] 2024-08-06 19:00:08.786 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.787 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.808 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.809 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.824 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.825 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.840 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.841 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.855 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.855 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.869 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.869 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.884 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.884 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.896 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.897 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.908 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.909 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.920 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.921 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.933 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.933 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.944 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.945 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.955 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.956 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.967 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.967 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-08-06 19:00:08.977 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-08-06 19:00:08.977 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
 Name of test method started: verifyAlreadyRegistered
-[INFO ] 2024-07-27 00:33:49.432 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:49.435 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:49.495 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:49.522 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:50.667 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:50.669 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:51.410 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+[INFO ] 2024-08-06 19:00:08.987 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:08.990 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:09.037 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:09.057 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:10.768 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:10.770 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:12.133 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+Name of test method sucessfully executed: verifyAlreadyRegistered
 ]]></system-out>
   </testcase>
-  <testcase name="verifyAlreadyRegistered[dazzy@email.com, dazzy@123, Dazzy Star](2)" classname="com.casstore.testcases.TC_AccountPageTest" time="1.689">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyAlreadyRegistered
-Name of test method started: verifyAlreadyRegistered
-[INFO ] 2024-07-27 00:33:51.412 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:51.413 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:51.442 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:51.471 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:52.324 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:52.324 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:53.100 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+  <testcase name="verifyAlreadyRegistered[dazzy@email.com, dazzy@123, Dazzy Star](2)" classname="com.casstore.testcases.TC_AccountPageTest" time="3.144">
+    <system-out><![CDATA[Name of test method started: verifyAlreadyRegistered
+[INFO ] 2024-08-06 19:00:12.134 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:12.134 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:12.156 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:12.183 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:13.974 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:13.975 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:15.276 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+Name of test method sucessfully executed: verifyAlreadyRegistered
 ]]></system-out>
   </testcase>
-  <testcase name="verifyAlreadyRegistered[lazzy@email.com, lazzy@123, Lazzy Star](3)" classname="com.casstore.testcases.TC_AccountPageTest" time="1.656">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyAlreadyRegistered
-Name of test method started: verifyAlreadyRegistered
-[INFO ] 2024-07-27 00:33:53.101 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:53.102 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:53.134 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:53.161 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:53.982 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:53.982 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:54.757 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+  <testcase name="verifyAlreadyRegistered[lazzy@email.com, lazzy@123, Lazzy Star](3)" classname="com.casstore.testcases.TC_AccountPageTest" time="5.093">
+    <system-out><![CDATA[Name of test method started: verifyAlreadyRegistered
+[INFO ] 2024-08-06 19:00:15.277 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:15.278 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:15.301 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:15.320 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:17.748 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:17.748 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:20.370 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+Name of test method sucessfully executed: verifyAlreadyRegistered
 ]]></system-out>
   </testcase>
-  <testcase name="verifyAlreadyRegistered[nazzy@email.com, nazzy@123, Nazzy Star](4)" classname="com.casstore.testcases.TC_AccountPageTest" time="1.633">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyAlreadyRegistered
-Name of test method started: verifyAlreadyRegistered
-[INFO ] 2024-07-27 00:33:54.758 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:54.759 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:54.783 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:54.809 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:55.582 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:55.582 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:56.390 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+  <testcase name="verifyAlreadyRegistered[nazzy@email.com, nazzy@123, Nazzy Star](4)" classname="com.casstore.testcases.TC_AccountPageTest" time="3.007">
+    <system-out><![CDATA[Name of test method started: verifyAlreadyRegistered
+[INFO ] 2024-08-06 19:00:20.371 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:20.371 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:20.396 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:20.416 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:22.255 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:22.255 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:23.376 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+Name of test method sucessfully executed: verifyAlreadyRegistered
 ]]></system-out>
   </testcase>
-  <testcase name="verifyAlreadyRegistered[fazzy@email.com, fazzy@123, Fazzy Star](5)" classname="com.casstore.testcases.TC_AccountPageTest" time="1.976">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyAlreadyRegistered
-Name of test method started: verifyAlreadyRegistered
-[INFO ] 2024-07-27 00:33:56.391 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:33:56.392 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:33:56.417 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:33:56.443 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:33:57.382 [main] CasStore - verifyAlreadyRegistered - Passed
-[INFO ] 2024-07-27 00:33:57.382 [main] CasStore - Clicked on signout button
-[INFO ] 2024-07-27 00:33:58.366 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+  <testcase name="verifyAlreadyRegistered[fazzy@email.com, fazzy@123, Fazzy Star](5)" classname="com.casstore.testcases.TC_AccountPageTest" time="1.836">
+    <system-out><![CDATA[Name of test method started: verifyAlreadyRegistered
+[INFO ] 2024-08-06 19:00:23.377 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:23.378 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:23.400 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:23.419 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:24.363 [main] CasStore - verifyAlreadyRegistered - Passed
+[INFO ] 2024-08-06 19:00:24.363 [main] CasStore - Clicked on signout button
+[INFO ] 2024-08-06 19:00:25.213 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+Name of test method sucessfully executed: verifyAlreadyRegistered
 ]]></system-out>
   </testcase>
-  <testcase name="verifyIndexPageSignInButton" classname="com.casstore.testcases.TC_BuyProductTest" time="0.804">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyAlreadyRegistered
-[INFO ] 2024-07-27 00:34:06.196 [main] CasStore - Url opened
+  <testcase name="verifyIndexPageSignInButton" classname="com.casstore.testcases.TC_BuyProductTest" time="0.843">
+    <system-out><![CDATA[[INFO ] 2024-08-06 19:00:32.456 [main] CasStore - Url opened
 Name of test method started: verifyIndexPageSignInButton
-[INFO ] 2024-07-27 00:34:06.792 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
-[INFO ] 2024-07-27 00:34:06.792 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:34:07.596 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+[INFO ] 2024-08-06 19:00:33.064 [main] CasStore - *************** TestCase Verify Index page SignIn Button Starts *****************
+[INFO ] 2024-08-06 19:00:33.064 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:33.906 [main] CasStore - *************** TestCase Verify Index page SignIn Button Ends *****************
+Name of test method sucessfully executed: verifyIndexPageSignInButton
 ]]></system-out>
   </testcase>
-  <testcase name="verifyUserLogin" classname="com.casstore.testcases.TC_BuyProductTest" time="1.126">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyIndexPageSignInButton
-Name of test method started: verifyUserLogin
-[INFO ] 2024-07-27 00:34:07.597 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
-[INFO ] 2024-07-27 00:34:07.597 [main] CasStore - Entered registered email address
-[INFO ] 2024-07-27 00:34:07.655 [main] CasStore - Entered registered password
-[INFO ] 2024-07-27 00:34:07.688 [main] CasStore - Clicked on signin button
-[INFO ] 2024-07-27 00:34:08.722 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+  <testcase name="verifyUserLogin" classname="com.casstore.testcases.TC_BuyProductTest" time="1.519">
+    <system-out><![CDATA[Name of test method started: verifyUserLogin
+[INFO ] 2024-08-06 19:00:33.907 [main] CasStore - *************** TestCase Verify SignIn Starts *****************
+[INFO ] 2024-08-06 19:00:33.908 [main] CasStore - Entered registered email address
+[INFO ] 2024-08-06 19:00:33.953 [main] CasStore - Entered registered password
+[INFO ] 2024-08-06 19:00:33.972 [main] CasStore - Clicked on signin button
+[INFO ] 2024-08-06 19:00:35.418 [main] CasStore - *************** TestCase Verify SignIn Ends *****************
+Name of test method sucessfully executed: verifyUserLogin
 ]]></system-out>
   </testcase>
-  <testcase name="verifySearchProduct" classname="com.casstore.testcases.TC_BuyProductTest" time="1.471">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifyUserLogin
-Name of test method started: verifySearchProduct
-[INFO ] 2024-07-27 00:34:08.723 [main] CasStore - *************** TestCase Verify Search Product Starts *****************
-[INFO ] 2024-07-27 00:34:08.725 [main] CasStore - Entered Search Item
-[INFO ] 2024-07-27 00:34:08.748 [main] CasStore - Clicked Search Product Button
-[INFO ] 2024-07-27 00:34:10.193 [main] CasStore - Searched Item: Found
-[INFO ] 2024-07-27 00:34:10.193 [main] CasStore - *************** TestCase Verify Search Product Ends *****************
+  <testcase name="verifySearchProduct" classname="com.casstore.testcases.TC_BuyProductTest" time="2.455">
+    <system-out><![CDATA[Name of test method started: verifySearchProduct
+[INFO ] 2024-08-06 19:00:35.419 [main] CasStore - *************** TestCase Verify Search Product Starts *****************
+[INFO ] 2024-08-06 19:00:35.420 [main] CasStore - Entered Search Item
+[INFO ] 2024-08-06 19:00:35.489 [main] CasStore - Clicked Search Product Button
+[INFO ] 2024-08-06 19:00:37.880 [main] CasStore - Searched Item: Found
+[INFO ] 2024-08-06 19:00:37.881 [main] CasStore - *************** TestCase Verify Search Product Ends *****************
+Name of test method sucessfully executed: verifySearchProduct
 ]]></system-out>
   </testcase>
-  <testcase name="verifyBuyProduct" classname="com.casstore.testcases.TC_BuyProductTest" time="12.245">
-    <system-out><![CDATA[Name of test method sucessfully executed: verifySearchProduct
-Name of test method started: verifyBuyProduct
-[INFO ] 2024-07-27 00:34:10.194 [main] CasStore - *************** TestCase Verify Buy Product Starts *****************
-[INFO ] 2024-07-27 00:34:10.196 [main] CasStore - Clicked on item
-[INFO ] 2024-07-27 00:34:11.249 [main] CasStore - Selected large size
-[INFO ] 2024-07-27 00:34:11.316 [main] CasStore - Quantity increased
-[INFO ] 2024-07-27 00:34:11.335 [main] CasStore - Clicked on Add to cart
-[INFO ] 2024-07-27 00:34:12.102 [main] CasStore - Clicked on Proceed to checkout
-[INFO ] 2024-07-27 00:34:12.862 [main] CasStore - Clicked on Proceed to checkout summary
-[INFO ] 2024-07-27 00:34:13.756 [main] CasStore - Default: Fisrt name & Last name
-[INFO ] 2024-07-27 00:34:13.756 [main] CasStore - Entered company
-[INFO ] 2024-07-27 00:34:13.786 [main] CasStore - Entered address1
-[INFO ] 2024-07-27 00:34:13.814 [main] CasStore - Entered address2
-[INFO ] 2024-07-27 00:34:13.832 [main] CasStore - Entered city
-[INFO ] 2024-07-27 00:34:13.849 [main] CasStore - Selected state
-[INFO ] 2024-07-27 00:34:14.106 [main] CasStore - Entered postal code
-[INFO ] 2024-07-27 00:34:14.124 [main] CasStore - Selected country
-[INFO ] 2024-07-27 00:34:14.162 [main] CasStore - Entered phone number
-[INFO ] 2024-07-27 00:34:14.181 [main] CasStore - Entered mobile number
-[INFO ] 2024-07-27 00:34:14.200 [main] CasStore - Entered additional information
-[INFO ] 2024-07-27 00:34:14.225 [main] CasStore - Clicked on save button
-[INFO ] 2024-07-27 00:34:15.580 [main] CasStore - Clicked on Proceed to checkout address
-[INFO ] 2024-07-27 00:34:16.621 [main] CasStore - Clicked on Agree terms checkbox
-[INFO ] 2024-07-27 00:34:16.846 [main] CasStore - Clicked on Proceed to checkout shipping
-[INFO ] 2024-07-27 00:34:17.737 [main] CasStore - Clicked on Pay by Check
-[INFO ] 2024-07-27 00:34:18.199 [main] CasStore - Clicked on Confirm my order
-[INFO ] 2024-07-27 00:34:22.420 [main] CasStore - Checked order success message
-[INFO ] 2024-07-27 00:34:22.438 [main] CasStore - Order is complete
-[INFO ] 2024-07-27 00:34:22.438 [main] CasStore - *************** TestCase Verify Buy Product Ends *****************
+  <testcase name="verifyBuyProduct" classname="com.casstore.testcases.TC_BuyProductTest" time="21.546">
+    <system-out><![CDATA[Name of test method started: verifyBuyProduct
+[INFO ] 2024-08-06 19:00:37.882 [main] CasStore - *************** TestCase Verify Buy Product Starts *****************
+[INFO ] 2024-08-06 19:00:37.883 [main] CasStore - Clicked on item
+[INFO ] 2024-08-06 19:00:39.554 [main] CasStore - Selected large size
+[INFO ] 2024-08-06 19:00:39.606 [main] CasStore - Quantity increased
+[INFO ] 2024-08-06 19:00:39.622 [main] CasStore - Clicked on Add to cart
+[INFO ] 2024-08-06 19:00:40.376 [main] CasStore - Clicked on Proceed to checkout
+[INFO ] 2024-08-06 19:00:42.429 [main] CasStore - Clicked on My addresses
+[INFO ] 2024-08-06 19:00:52.441 [main] CasStore - Clicked on cart button: address is already available
+[INFO ] 2024-08-06 19:00:53.075 [main] CasStore - Clicked on Proceed to checkout summary
+[INFO ] 2024-08-06 19:00:53.869 [main] CasStore - Clicked on Proceed to checkout address
+[INFO ] 2024-08-06 19:00:54.764 [main] CasStore - Clicked on Agree terms checkbox
+[INFO ] 2024-08-06 19:00:54.985 [main] CasStore - Clicked on Proceed to checkout shipping
+[INFO ] 2024-08-06 19:00:55.855 [main] CasStore - Clicked on Pay by Check
+[INFO ] 2024-08-06 19:00:56.246 [main] CasStore - Clicked on Confirm my order
+[INFO ] 2024-08-06 19:00:59.417 [main] CasStore - Checked order success message
+[INFO ] 2024-08-06 19:00:59.426 [main] CasStore - Order is complete
+[INFO ] 2024-08-06 19:00:59.427 [main] CasStore - *************** TestCase Verify Buy Product Ends *****************
+Name of test method sucessfully executed: verifyBuyProduct
 ]]></system-out>
   </testcase>
 </testsuite>

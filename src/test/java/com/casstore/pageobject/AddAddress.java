@@ -93,5 +93,11 @@ public class AddAddress {
 	public void clickOnSaveBtn() {
 		save.click();
 	}
+	
+	@FindBy(xpath="//a[@title='View my shopping cart']")
+	WebElement backToCart;
+	public void clickOnCartBtn() {
+		backToCart.click();
+	}
 
 }
