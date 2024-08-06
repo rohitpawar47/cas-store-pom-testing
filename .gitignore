@@ -1,5 +1,5 @@
-/.classpath
-/.DS_Store
-/.project
+.classpath
+.DS_Store
+.project
 .settings/
-/run.sh
+run.sh
